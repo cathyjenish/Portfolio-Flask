@@ -3,7 +3,7 @@
 A modern, responsive portfolio website built with Flask, HTML, CSS, and JavaScript.
 
 # Portfolio
-![Demo](output_1.mp4)
+![Demo](output_1.gif)
 ## Project Structure
 
 ```
