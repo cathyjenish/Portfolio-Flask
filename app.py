@@ -24,21 +24,24 @@ portfolio_data = {
             'description': '(PRM) Probabilistic Roadmaps is a path planning algorithm used in Robotics.',
             'technologies': [ "Python", "matplotlib","numpy"],
             'github': 'https://github.com/cathyjenish/Shortest-path-planning',
-            'demo': 'static/images/image.png'
+            'demo': 'static/images/6000_samples.png',
+            'img': 'static/images/image.png'
         },
         {
             'title': 'Network Traffic Prediction',
             'description': 'This code predicts network traffic from PCAP files using machine learning, detects anomalies, and suggests capacity planning, all presented via a Tkinter-based GUI.',
             'technologies': ['Python', 'Tkinter'],
             'github': 'https://github.com/cathyjenish/Network-traffic-prediction.git',
-            'demo': 'static/images/image2.png'
+            'demo': 'static/images/Network-pred-real-time.mp4',
+            'img': 'static/images/image2.png'
         },
         {
             'title': 'Live video streamer GUI',
             'description': 'Real-time Video tracking with controls and forecasts using mesh network',
             'technologies': [ 'Python', 'Tkinter', 'mesh'],
             'github': 'https://github.com/cathyjenish/video-streaming-gui.git',
-            'demo': 'static/images/image3.png'
+            'demo': 'static/images/video-streamer-gui.png',
+            'img': 'static/images/image3.png'
         }
     ],
     'experience': [
