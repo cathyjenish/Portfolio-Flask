@@ -2,15 +2,6 @@
 
 A modern, responsive portfolio website built with Flask, HTML, CSS, and JavaScript.
 
-## Features
-
-- **Responsive Design**: Works on all devices (desktop, tablet, mobile)
-- **Modern UI**: Clean and professional design with animations
-- **Contact Form**: Integrated contact form with validation
-- **Project Showcase**: Display your projects with descriptions and links
-- **Skills Section**: Highlight your technical skills
-- **Experience Timeline**: Showcase your professional experience
-- **Download Resume**: Direct resume download functionality
 
 ## Project Structure
 
@@ -72,4 +63,14 @@ Edit the `portfolio_data` dictionary in `app.py` to update:
 - **CSS Framework**: Bootstrap 5
 - **Icons**: Font Awesome
 - **Responsive Design**: Mobile-first approach
+
+## Features
+
+- **Responsive Design**: Works on all devices (desktop, tablet, mobile)
+- **Modern UI**: Clean and professional design with animations
+- **Contact Form**: Integrated contact form with validation
+- **Project Showcase**: Display your projects with descriptions and links
+- **Skills Section**: Highlight your technical skills
+- **Experience Timeline**: Showcase your professional experience
+- **Download Resume**: Direct resume download functionality
 
