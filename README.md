@@ -50,10 +50,8 @@ portfolio/
 
 ### Personal Information
 Edit the `portfolio_data` dictionary in `app.py` to update:
-- Personal details (name, title, contact info)
-- Bio and skills
-- Projects and experience
-- Education background
+- Personal details
+
 
 ### Styling
 - Modify `static/css/style.css` for custom styling
@@ -75,13 +73,3 @@ Edit the `portfolio_data` dictionary in `app.py` to update:
 - **Icons**: Font Awesome
 - **Responsive Design**: Mobile-first approach
 
-## Deployment Options
-
-- **Heroku**: Easy deployment with Git
-- **PythonAnywhere**: Free Python hosting
-- **AWS**: Scalable cloud deployment
-- **DigitalOcean**: VPS hosting
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
